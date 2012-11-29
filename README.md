@@ -1,4 +1,5 @@
 PyIRC
+=====
 
 A Python based IRC bot with the ability to create custmoized modules for different functionalities.
 
