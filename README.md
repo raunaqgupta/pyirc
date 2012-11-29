@@ -11,8 +11,3 @@ The bot will then attempt to login to all the channels in the IRC server as prov
 Configuration is controlled by the information in config.json
 Different channels can be added by appending into the "channels" list
 Currently only a single IRC server is supported.
-
-Currently there are two functional modules:
-
-greetings.py which greets any new incoming user
-repeater.py which repeats anything directed at the bot
