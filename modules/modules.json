@@ -1,0 +1,7 @@
+{
+	"modules": [
+		"general_module",
+		"greetings",
+		"repeater"
+	]
+}

@@ -1,0 +1,23 @@
+{
+	"bot": {
+		"nick": "pytle",
+		"realname": "pytle",
+		"username": "pytle",
+		"hostname": "pytle",
+		"servername": "pytle"
+	},
+	
+	"server": {
+		"name": "FREENODE",
+		"address": "irc.freenode.net",
+		"port": "6667",
+		"channels": [
+			"#hcii"
+		] 
+	},
+	
+	"chan_log": {
+		"path": "./chan_logs",
+		"overwrite": "0"
+	}
+}
